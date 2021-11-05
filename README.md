@@ -1,4 +1,4 @@
-# university-projects
+# University Projects
 My C# (.NET) university projects
 
 * **OC_Lab2** - Simple draw editor.
